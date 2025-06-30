@@ -14,4 +14,4 @@ terraform apply
 ```
 ## Results
 ![output](https://github.com/mahimasharu2208/tf-random-sample/blob/main/outputs/random1.png)
-![output](https://github.com/mahimasharu2208/tf-ramdom-sample/blob/main/outputs/random2.png)
+![output](https://github.com/mahimasharu2208/tf-random-sample/blob/main/outputs/random2.png)
