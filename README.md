@@ -4,7 +4,6 @@ This repo uses the [`random`](https://registry.terraform.io/providers/hashicorp/
 
 ## Files
 - `main.tf` – Generates a random string and number.
-- `outputs.tf` – Displays generated values.
 
 ## Usage
 
